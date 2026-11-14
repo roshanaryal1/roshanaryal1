@@ -113,10 +113,6 @@ authentication, storage and public data services.
   [air-nz-stock-linear-regression](https://github.com/roshanaryal1/air-nz-stock-linear-regression) ·
   [Dimensionality-Reduction-](https://github.com/roshanaryal1/Dimensionality-Reduction-)
 
-New repositories start from my
-[repo-template](https://github.com/roshanaryal1/repo-template), one template
-for projects, research and coursework.
-
 ## Education
 
 **Bachelor of Information Technology**, Otago Polytechnic, Auckland
