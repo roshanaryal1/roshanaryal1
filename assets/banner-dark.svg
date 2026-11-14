@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Roshan Aryal, AI and software engineer">
+  <rect width="1200" height="280" rx="16" fill="#192430"/>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="56" y="70" font-size="15" font-weight="700" letter-spacing="3" fill="#3CC4B8">AI AND SOFTWARE ENGINEER</text>
+    <text x="54" y="138" font-size="60" font-weight="800" fill="#FFFFFF">Roshan Aryal</text>
+    <text x="56" y="184" font-size="22" fill="#B8C1CA">I build AI products that are measured, explainable and ready for production.</text>
+    <text x="56" y="232" font-size="17" fill="#B8C1CA">Auckland, New Zealand  ·  Bachelor of Information Technology, December 2026</text>
+    <line x1="850" y1="56" x2="850" y2="232" stroke="#34475A" stroke-width="2"/>
+    <text x="882" y="84" font-size="30" font-weight="800" fill="#3CC4B8">SSD 2026</text>
+    <text x="882" y="108" font-size="15" fill="#B8C1CA">accepted research paper</text>
+    <text x="882" y="160" font-size="30" font-weight="800" fill="#3CC4B8">1st place</text>
+    <text x="882" y="184" font-size="15" fill="#B8C1CA">Innovation Challenge 2026</text>
+    <text x="882" y="228" font-size="15" fill="#B8C1CA">3 live products  ·  4 papers in 2026</text>
+  </g>
+</svg>
