@@ -40,7 +40,7 @@ New Zealand from January 2027**.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/roshanaryal1/serialisation-ceiling-artifact"><img src="assets/serialisation-ceiling.png" alt="Cold-start decomposition chart"></a>
-      <h3>Why browser search breaks at 61,000 documents</h3>
+      <h3>Why browser search breaks between 61,000 and 67,000 documents</h3>
       <p>Found and fixed a hard failure in in-browser semantic search: the JSON vector file exceeds Chrome's maximum string length. A binary format is 5.19× smaller and cannot hit the limit. <b>Paper accepted at SSD 2026.</b> CI re-runs the analysis and checks the published numbers on every push.</p>
       <p><b>JavaScript · WebAssembly · Playwright · Python</b><br><a href="https://github.com/roshanaryal1/serialisation-ceiling-artifact">code and data</a></p>
     </td>
