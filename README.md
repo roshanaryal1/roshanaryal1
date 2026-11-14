@@ -75,7 +75,7 @@ New Zealand from January 2027**.
 
 ## Tech stack
 
-| | |
+| Area | Tools |
 |---|---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
 | **LLM APIs** | ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![xAI Grok](https://img.shields.io/badge/xAI_Grok-000000?style=flat-square&logo=x&logoColor=white) ![Alibaba Qwen](https://img.shields.io/badge/Alibaba_Qwen-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![Together AI](https://img.shields.io/badge/Together_AI-0F6FFF?style=flat-square) ![OpenAI-compatible APIs](https://img.shields.io/badge/OpenAI--compatible_APIs-5C6178?style=flat-square) |
