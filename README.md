@@ -71,7 +71,7 @@ New Zealand from January 2027**.
 **Independent research** · 2025 to present
 
 - Four studies in 2026, each with a public, reproducible pipeline: one paper
-  accepted, one through peer review, one under review, one preprint.
+  accepted, one published, one under review, one preprint.
 
 ## Tech stack
 
@@ -94,7 +94,7 @@ authentication, storage and public data services.
 | Work | Status | Code and data |
 |---|---|---|
 | A Serialisation Ceiling in Browser-Native Semantic Retrieval | Accepted, SSD 2026 (Atlantis Press, Springer Nature) | [repo](https://github.com/roshanaryal1/serialisation-ceiling-artifact) |
-| Large Language Models as Systems Architects | Peer review complete, in production at Cureus Journal of Computer Science · [DOI](https://doi.org/10.5281/zenodo.22245991) | [repo](https://github.com/roshanaryal1/llm-architects) |
+| Large Language Models as Systems Architects | Published, Cureus Journal of Computer Science, November 2026 · [DOI](https://doi.org/10.7759/s44389-026-00392-5) | [repo](https://github.com/roshanaryal1/llm-architects) |
 | Model, Not Mode: fast versus reasoning modes across six LLM families | Preprint · [DOI](https://doi.org/10.20944/preprints202610.2826.v1) | [repo](https://github.com/roshanaryal1/reasoning-mode-grid) |
 | Light condition, weather and injury severity in NZ road crashes, 2010-2024 | Under peer review · [DOI](https://doi.org/10.5281/zenodo.21839911) | [repo](https://github.com/roshanaryal1/cas-severity) |
 
